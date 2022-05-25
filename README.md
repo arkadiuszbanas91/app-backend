@@ -13,3 +13,5 @@ Do the following to run this app:
        ```
 2. Run `gradlew bootRun` to start backend.
 3. Start frontend app.
+
+There is a built-in user: `admin/admin`.
